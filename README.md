@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/OracleDB-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Numpy-007396?
-  style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Numpy-007396?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pandas-3766AB?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp
 </p>
