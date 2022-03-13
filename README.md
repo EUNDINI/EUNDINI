@@ -16,9 +16,9 @@
 <!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/OracleDB-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 <!--   <br>
   <img src="https://img.shields.io/badge/Numpy-007396?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pandas-3766AB?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp -->
